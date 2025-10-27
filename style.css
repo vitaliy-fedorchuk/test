@@ -48,7 +48,6 @@ body {
     opacity: 0.3;
 }
 
-/* Keyframes for melting effect */
 @keyframes melt {
     0%, 100% {
         transform: translateY(0);
